@@ -50,5 +50,3 @@ Due to size limitations, the dataset is not included in this repository.
 - Improve accuracy using custom-trained models  
 - Add performance analytics and progress tracking  
 - Mobile responsiveness and app deployment  
-## Demo
-(Add screenshots or demo images here)
